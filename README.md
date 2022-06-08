@@ -49,6 +49,29 @@
 - Practiced hands-on.
 <br> 
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Week9 : 30-March-2022 to 5-April-2022** 
+   ##  Data Structures
+   
+- Went through the Data Structures concept through Udemy Lectures.
+- learnt about Array, Stack.
+- Arrays are defined as the collection of similar types of data items stored at contiguous memory locations whereas A Stack is a linear data structure that follows the 
+  LIFO (Last-In-First-Out) principle.
+- Studied about , Queue, Linked list, Types of Linked List, Matrix.
+- Practiced hands-on on Hackerrank.
+<br>  
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Week10 : 6-April-2022 to 12-April-2022** 
+   ##  Data Structures
+   
+- Continued the learning of Data Structures from Udemy. 
+- learnt about Trees, Graphs.
+- Went through Sorting Algorithms.
+- Studied Introduction to Algorithm Analysis that is Time Complexity and Order of Growth.
+- Practiced hands-on on Hackerrank.
+<br>
+
 
 
  
