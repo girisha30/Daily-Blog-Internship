@@ -37,4 +37,18 @@
 - Practiced hands-on.
 <br>
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Week8 : 23-March-2022 to 29-March-2022** 
+   ##  ADO.net
 
+- Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
+- learnt about the ADO.NET Data Providers. Itis used to connect to the database, execute commands and retrieve the record.
+- Studied about ADO.NET SQL Server. This tool is used to handle database.
+- Another Concept is ADO.NET Connection. It is used to establish an open connection to the SQL Server database.
+- Also studied about ADO.NET Data Reader and  ADO.NET Data Adapter.
+- Practiced hands-on.
+<br> 
+
+
+
+ 
