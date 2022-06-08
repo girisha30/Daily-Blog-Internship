@@ -16,7 +16,11 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week6 : 8-March-2022 to 14-March-2022** 
    ##  C#
+   ### What is C#?
+   C# is a strongly typed object-oriented programming language. C# is open source, simple, modern, flexible, and versatile. Key characteristics of C# language include:
+   Modern and easy, Fast and open source, Cross platform, Safe, Versatile, Evolving.
 
+Learnings:   
 - Install Visual Studio Code and learnt about that Platform.
 - Learnt about Syntax, variable, Keywords, oprators, Methods of C#. 
 - Then studied about Conditional statements, loops, classes and objects from udemy lectures.
@@ -40,7 +44,11 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week8 : 23-March-2022 to 29-March-2022** 
    ##  ADO.net
-
+   ### What is ?
+   ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
+   ADO.NET consists of classes that can be used to connect, retrieve, insert and delete data.
+   
+Learnings:
 - Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
 - learnt about the ADO.NET Data Providers. Itis used to connect to the database, execute commands and retrieve the record.
 - Studied about ADO.NET SQL Server. This tool is used to handle database.
