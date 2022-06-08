@@ -37,7 +37,7 @@ Learnings:
 - learnt about Arrays and Lists.
 - Went through the concept of Debugging.
 - Debugging is the process of running our code step by step in a debugger and identifying, analyzing, and removing errors (also known as “bugs”) from our code.  
-- Studied about the advanced C# Methods such as Access modifiers, Abstract class, DateTime object, Structs, Enum, Delegates,Events, LINQ, Lambda, Anonymous function.
+- Studied about the advanced C# Methods such as Access modifiers, Abstract class, DateTime object, LINQ.
 - Practiced hands-on.
 <br>
 
@@ -70,7 +70,7 @@ Learnings:
 - learnt about Array, Stack.
 - Arrays are defined as the collection of similar types of data items stored at contiguous memory locations whereas A Stack is a linear data structure that follows the 
   LIFO (Last-In-First-Out) principle.
-- Studied about , Queue, Linked list, Types of Linked List, Matrix.
+- Studied about , Queue, Linked list, Types of Linked List.
 - Practiced hands-on on Hackerrank.
 <br>  
 
