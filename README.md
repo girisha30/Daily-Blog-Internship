@@ -134,7 +134,7 @@ Learnings:
    efficiently. Some examples of Data Structures are arrays, Linked List, Stack, Queue, etc. Data Structures are widely used in almost every aspect of Computer Science
    i.e. Operating System, Compiler Design, Artifical intelligence, Graphics and many more.
    
-   
+Learnings  
 - Went through the Data Structures concept through Udemy Lectures.
 - learnt about Array, Stack.
 - Arrays are defined as the collection of similar types of data items stored at contiguous memory locations whereas A Stack is a linear data structure that follows the 
